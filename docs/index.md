@@ -1,10 +1,12 @@
 # Welcome to Zoning for Zero Foundation
 
-Welcome to the Zoning for Zero Foundation documentation site.
+The **Zoning for Zero Foundation** is a planetary-scale research and infrastructure initiative. We codify the relationship between urban form and climate impact, providing the mathematical standard for carbon-neutral cities.
 
-## About
+## The Mission: Strategic Agility for a Climate Emergency
 
-This documentation provides comprehensive information about our methodology, climate proxies, and contribution guidelines.
+Urban planning decisions regarding land use, multi-modal connectivity, and structural density create **path-dependencies** that dictate the carbon intensity of cities for decades. We believe that **decisions made at the planning level hold significantly greater decarbonization potential than granular building-level refinements.**
+
+Our mission is to move the industry beyond the ’precision paradox’ of construction-level data toward **Strategic Agility** by bridging the gap between planetary climate research and enforceable, mitigative zoning standards.
 
 ## Quick Links
 
@@ -14,4 +16,4 @@ This documentation provides comprehensive information about our methodology, cli
 
 ## Getting Started
 
-Browse the navigation menu to explore different sections of our documentation.
+This documentation provides comprehensive information about our methodology, climate proxies, and contribution guidelines.
