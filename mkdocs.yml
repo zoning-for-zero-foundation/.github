@@ -1,0 +1,26 @@
+site_name: Zoning for Zero Foundation
+site_description: Documentation for the Zoning for Zero Foundation
+site_author: Zoning for Zero Foundation
+site_url: https://zoning-for-zero-foundation.github.io
+
+theme:
+  name: material
+  palette:
+    primary: teal
+    accent: teal
+
+nav:
+  - Home: index.md
+  - Methodology: methodology.md
+  - Climate Proxies:
+    - CX1: cx1.md
+    - CX2: cx2.md
+  - Contribution CoC: coc.md
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
