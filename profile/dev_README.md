@@ -10,7 +10,7 @@ The **Zoning for Zero Foundation** is a planetary-scale research and infrastruct
 
 Urban planning decisions regarding land use, multi-modal connectivity, and structural density create **path-dependencies** that dictate the carbon intensity of cities for decades. We believe that **decisions made at the planning level hold significantly greater decarbonization potential than granular building-level refinements.**
 
-Our goal is to move the built environment sector from a fixation on construction-phase hyper-precision toward **Strategic Agility**—leveraging high-impact urban planning data (UPD) to drive systemic change.
+Our mission is to move the industry beyond the 'precision paradox' of construction-level data toward **Strategic Agility** by bridging the gap between planetary climate research and enforceable, mitigative zoning standards.
 
 ---
 
@@ -24,8 +24,8 @@ We maintain a strict boundary between public utility and commercial innovation:
 
 ## 📂 The Ecosystem
 
-* **[zzproxies](https://github.com/zoning-for-zero/zzproxies):** Our production-grade Python engine. Modular, schema-driven, and infrastructure-agnostic.
-* **[datalab](https://github.com/zoning-for-zero/datalab):** The research hub where we bridge raw spatial data (Overture Maps, Urban Atlas) with new zoning ordinances and policy innovation.
+* **[zzproxies](https://github.com/zoning-for-zero-foundation/zzproxies):** Our production-grade Python engine. Modular, schema-driven, and infrastructure-agnostic.
+* **[datalab](https://github.com/zoning-for-zero-foundation/datalab):** The research laboratory where we develop proxies with real-world spatial data to discover new mitigative zoning ordinances.
 
 ---
 
