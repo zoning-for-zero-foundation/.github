@@ -11,7 +11,7 @@ Our mission is to move the industry beyond the ’precision paradox’ of constr
 ## Quick Links
 
 - [Methodology](methodology.md) - Learn about our research methodology
-- [Climate Proxies](cx1.md) - Explore our climate proxy data
+- [Climate Proxies](cx_template.md) - Explore latest climate proxies
 - [Contribution Code of Conduct](coc.md) - Read our community guidelines
 
 ## Getting Started

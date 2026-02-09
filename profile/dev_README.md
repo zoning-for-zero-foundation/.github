@@ -6,7 +6,7 @@ The **Zoning for Zero Foundation** is a planetary-scale research and infrastruct
 
 ---
 
-## 🏛 The Mission: Strategic Agility for a Climate Emergency
+## The Mission: Strategic Agility for a Climate Emergency
 
 Urban planning decisions regarding land use, multi-modal connectivity, and structural density create **path-dependencies** that dictate the carbon intensity of cities for decades. We believe that **decisions made at the planning level hold significantly greater decarbonization potential than granular building-level refinements.**
 
@@ -14,7 +14,7 @@ Our mission is to move the industry beyond the 'precision paradox' of constructi
 
 ---
 
-## 🧬 Our Open Core Strategy: The "Math Contract"
+## Our Open Core Strategy: The "Math Contract"
 
 We maintain a strict boundary between public utility and commercial innovation:
 * **The Foundation** defines the **Math Contract**: standardized schemas and computational logic for climate proxies.
@@ -22,14 +22,14 @@ We maintain a strict boundary between public utility and commercial innovation:
 
 ---
 
-## 📂 The Ecosystem
+## The Ecosystem
 
 * **[zzproxies](https://github.com/zoning-for-zero-foundation/zzproxies):** Our production-grade Python engine. Modular, schema-driven, and infrastructure-agnostic.
 * **[datalab](https://github.com/zoning-for-zero-foundation/datalab):** The research laboratory where we develop proxies with real-world spatial data to discover new mitigative zoning ordinances.
 
 ---
 
-## ⚖️ Governance & Integrity
+## Governance & Integrity
 
 The Foundation is governed by a **Scientific Advisory Board** to ensure that every proxy in our registry meets the highest standards of mathematical and environmental validity. 
 
