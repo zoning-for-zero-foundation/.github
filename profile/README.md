@@ -33,8 +33,6 @@ We maintain a strict boundary between public utility and commercial innovation:
 
 The Foundation is governed by a **Scientific Advisory Board** to ensure that every proxy in our registry meets the highest standards of mathematical and environmental validity. 
 
-> **"The math of our planet should be smart, open, and simple to leverage."**
-
 ---
-**[zoning-for-zero.bsky.social]**
+**[@zoningforzero.bsky.social](zoningforzero.bsky.social)**
 
