@@ -12,9 +12,7 @@ theme:
 nav:
   - Home: index.md
   - Methodology: methodology.md
-  - Climate Proxies:
-    - CX1: cx1.md
-    - CX2: cx2.md
+  - Climate Proxies: cx_template.md
   - Contribution CoC: coc.md
 
 markdown_extensions:
