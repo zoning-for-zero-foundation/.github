@@ -34,5 +34,5 @@ We maintain a strict boundary between public utility and commercial innovation:
 The Foundation is governed by a **Scientific Advisory Board** to ensure that every proxy in our registry meets the highest standards of mathematical and environmental validity. 
 
 ---
-**[@zoningforzero.bsky.social](zoningforzero.bsky.social)**
+**[@zoningforzero.bsky.social](https://bsky.app/profile/zoningforzero.bsky.social)**
 
