@@ -2,7 +2,7 @@
 
 ### Decarbonizing the Built Environment through Open-Source Urban Morphology.
 
-The **Zoning for Zero Foundation** is a planetary-scale research and infrastructure initiative. We codify the relationship between urban form and climate impact, providing the mathematical standard for carbon-neutral cities.
+The **Zoning for Zero Foundation** is a planetary-scale research and infrastructure initiative. We codify the relationship between urban form and climate impact, providing the mathematical standard for carbon-neutral cities. The foundation was born, inspired by Teemu Jama's doctoral [dissertation](https://hdl.handle.net/20.500.11815/8057) research, with the aim of crowdsourcing city science know-how to support the planning of more sustainable societies in different parts of the only Earth that people have.
 
 ---
 
